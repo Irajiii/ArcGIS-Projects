@@ -5,3 +5,5 @@ This project was created using ArcGIS
 This assignment shows a comparison of Milton versus Toronto Commuter ratings using datasets provided by Statistics Canada.
 
 # Files
+EVMiltonVsToronto.pdf (full report)
+Miltoncommuter.png
